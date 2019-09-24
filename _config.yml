@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "profile"
+  name             : "Takayuki Shinohara"
   avatar           : "profile.png"
-  bio              : "Ph.D student"
+  bio              : "Hi! My name is Takayuki. I was originally born in Tochigi, Japan, and now I’m a Ph.D. student at the Tokyo Institute of Technology in Yokohama, Japan. I study full-waveform LiDAR data analysis with a Deep Learning method. "
   location         : "Yokohama, Japan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=takayuki+shinohara"
