@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Takayuki Shinohara"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Hi! My name is Takayuki. I was originally born in Tochigi, Japan, and now I’m a Ph.D. student at the Tokyo Institute of Technology in Yokohama, Japan. I study full-waveform LiDAR data analysis with a Deep Learning method. "
   location         : "Yokohama, Japan"
   employer         :
