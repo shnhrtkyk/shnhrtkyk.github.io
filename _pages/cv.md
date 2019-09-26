@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Science, Tsukuba University, 2013
+* M.S. in Engineering, Tokyo Institute of Technology, 2015
+* Ph.D in Engineering, Tokyo Institute of Technology, 2022(expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015- : Researcher
+  * Pasco Corporation
+    * 2015-2016: trafic sign detection by rule based algorithm. Develop SfM software.
+    * 2016-2018: image classification and imaage segmentation using deep learning.
+      * Paavement Craack Estimation
+      * Road Sign Segmentation
+      * Semi-supervised learning for disaster damage detection using GANs
+      * Domain Adaptation 
+      * landslide estimation
+    * 2018-2019: RPA
+    * 2019-: 3D point cloud labeling
+      
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming 
+  * C++
+  * Python
+* Conputer Vison
+  * Image Classification 
+  * Image Segmentation 
+  
+* Neural Network
+  * GAN 
+    * Domain  Adaptation 
+    * Semi-supervised learning      
 
 Publications
 ======
@@ -54,6 +64,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
