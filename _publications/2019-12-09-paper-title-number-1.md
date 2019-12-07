@@ -1,5 +1,5 @@
 ---
-title: "FWNetAE: Spatial Representation Learning forFull Waveform Data Using Deep Learning"
+title: "FWNetAE: Spatial Representation Learning for Full Waveform Data Using Deep Learning"
 collection: publications
 permalink: /publication/2019-12-09-paper-title-number-1
 excerpt: 'This paper is about a novel representation learning method for raw full waveform lidar data, using spatial deep learning method.'
