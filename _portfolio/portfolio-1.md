@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Representation Learing method for Full waveform LiDAR data"
+excerpt: "FWNetAE<br/><img src='/images/fwnetae.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* This paper presents a novel representation learning method for spatially distributed full-waveform data observed from an ALS using an AE-based architecture called FWNetAE. 
+
+* The results demonstrate a generalization error for invisible test data.
+* Moreover, the FWNetAE encoded a meaningful latent vector and the decoders reconstructed the spatial geometry and its waveform value from the encoded latent vector. 
+
