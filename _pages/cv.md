@@ -21,12 +21,12 @@ Work experience
   * Pasco Corporation
     * 2015-2016: trafic sign detection by rule based algorithm. Develop SfM software.
     * 2016-2018: image classification and imaage segmentation using deep learning.
-      * Paavement Craack Estimation
+      * Paavement Crack Estimation
       * Road Sign Segmentation
       * Semi-supervised learning for disaster damage detection using GANs
-      * Domain Adaptation 
-      * landslide estimation
-    * 2018-2019: RPA
+      * Domain Adaptation for sem.seg.
+      * Landslide estimation
+    * 2018-2019: RPA system development for OCR using win32 APIs.
     * 2019-: 3D point cloud labeling
       
 
@@ -36,14 +36,16 @@ Skills
 ======
 * Programming 
   * C++
+  * C#
   * Python
+  
 * Conputer Vison
   * Image Classification 
   * Image Segmentation 
   
 * Neural Network
   * GAN 
-    * Domain  Adaptation 
+    * Domain Adaptation 
     * Semi-supervised learning      
 
 Publications
