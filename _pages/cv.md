@@ -21,7 +21,7 @@ Work experience
   * Pasco Corporation
     * 2015-2016: trafic sign detection by rule based algorithm. Develop SfM software.
     * 2016-2018: image classification and imaage segmentation using deep learning.
-      * Paavement Crack Estimation
+      * Pavement Crack Estimation
       * Road Sign Segmentation
       * Semi-supervised learning for disaster damage detection using GANs
       * Domain Adaptation for sem.seg.
