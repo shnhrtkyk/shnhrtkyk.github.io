@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 # International Conference 
-* T.Shinohara,et.al. "FWNetAE: Spatial Representation Learning for Full Waveform Data Using Deep Learning." Second International Workshop on Artificial Intelligence for 3D Big Spatial Data Processing (AI3D 2019).,2019.
+* H. Xiu, T. Shinohara and M. Matsuoka, “Dynamic-Scale Graph Convolutional Network for Semantic Segmentation of 3D Point Cloud,” 2019 IEEE International Symposium on Multimedia (ISM), San Diego, CA, USA, 2019, pp. 271-2717.
+doi: 10.1109/ISM46123.2019.00062
+* T. Shinohara, H. Xiu and M. Matsuoka, “FWNetAE: Spatial Representation Learning for Full Waveform Data Using Deep Learning,” 2019 IEEE International Symposium on Multimedia (ISM), San Diego, CA, USA, 2019, pp. 259-2597.
+doi: 10.1109/ISM46123.2019.00060
 * Li, Y., Sakamoto, M., Shinohara, T., and Satoh, T.: OBJECT DETECTION FROM MMS IMAGERY USING DEEP LEARNING FOR GENERATION OF ROAD ORTHOPHOTOS, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2, 573-577, https://doi.org/10.5194/isprs-archives-XLII-2-573-2018, 2018.
 * Yonghe Li, Takayuki Shinohara, Mitsuteru Sakamoto and Toshiaki Satoh: R-CNN based Object Detection from MMS Imagery for Generation of Road Orthophotos, International Symposium on Remote Sensing, 2017.5.
 * Takayuki Shinohara, Yonghe Li, Mitsuteru Sakamoto and Toshiaki Satoh: DEVELOPMENT OF AUTOMATED CRACK DETECTION METHOD BASED ON CONVOLUTIONAL NEURAL NETWORKS， International Symposium on Remote Sensing, 2017.5.
@@ -21,6 +24,7 @@ author_profile: true
 * 篠原崇之，李勇鶴，坂元光輝，佐藤俊明，先名重樹, 半教師付き学習による噴砂被害域の自動抽出手法に関する検討，応用測量論文集, Vol. 29， 2018.7　優秀論文賞) 
 
 # 国内学会
+* 坂元光輝・篠原崇之・李　勇鶴，佐藤俊明，Conditional GAN を活用した石垣画像からの石材抽出手法の改良，日本写真測量学会令和 元年度年次学術講演会発表論文集, 2019.11
 * 武田大典，篠原崇之，下村博之，藤平大，櫻本智美，杉本宏之: 地すべり地形自動抽出のための深層学習（Dilated U-net）を活用した応用研究，CDROM，2019.08．
 * 篠原崇之, 李勇鶴, 坂元光輝, 佐藤俊明: Mobile Mapping System画像に対するドメイン適応を利用したSemantic Segmentation手法の検討, USB Memory,2019.8.
 * 篠原崇之，武田大典，下村博之，藤平大，櫻本智美，深層学習(Dilated U-net)による航空レーザデータを用いた地すべり地形自動抽出手法の検討，日本地すべり学会第57回研究発表会，CDROM，2018.08．
