@@ -39,10 +39,13 @@ Skills
   * C#
   * Python
   
-* Conputer Vison
-  * Image Classification 
-  * Image Segmentation 
-  
+* Computer Vision
+  * Image 
+      * Classification 
+      * Segmentation 
+  * Point Cloud  
+      * Segmentation 
+      
 * Neural Network
   * GAN 
     * Domain Adaptation 
