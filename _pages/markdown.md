@@ -8,9 +8,20 @@ redirect_from:
 ---
 
 ## Math
+* Infomation geometry
 
-## Anime
+## Programming
+* AtCoder
 
-## Manga
+## Anime and Manga
+* Aikatsu!
+[https://en.wikipedia.org/wiki/Aikatsu!](https://en.wikipedia.org/wiki/Aikatsu!)
+
+* NewGame!
+[https://en.wikipedia.org/wiki/New_Game!](https://en.wikipedia.org/wiki/New_Game!)
+
 
 ##  Video Game
+* FPS
+* RPG
+* Ace Combat
