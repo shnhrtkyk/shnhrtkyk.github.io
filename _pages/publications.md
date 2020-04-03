@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 # International Conference 
+## peer review
 * H. Xiu, T. Shinohara and M. Matsuoka, “Dynamic-Scale Graph Convolutional Network for Semantic Segmentation of 3D Point Cloud,” 2019 IEEE International Symposium on Multimedia (ISM), San Diego, CA, USA, 2019, pp. 271-2717.
 doi: 10.1109/ISM46123.2019.00062
 * __T. Shinohara__, H. Xiu and M. Matsuoka, “FWNetAE: Spatial Representation Learning for Full Waveform Data Using Deep Learning,” 2019 IEEE International Symposium on Multimedia (ISM), San Diego, CA, USA, 2019, pp. 259-2597.
 doi: 10.1109/ISM46123.2019.00060
+
+
+## without peer-review
 * Li, Y., Sakamoto, M., Shinohara, T., and Satoh, T.: OBJECT DETECTION FROM MMS IMAGERY USING DEEP LEARNING FOR GENERATION OF ROAD ORTHOPHOTOS, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2, 573-577, https://doi.org/10.5194/isprs-archives-XLII-2-573-2018, 2018.
 * Yonghe Li, Takayuki Shinohara, Mitsuteru Sakamoto and Toshiaki Satoh: R-CNN based Object Detection from MMS Imagery for Generation of Road Orthophotos, International Symposium on Remote Sensing, 2017.5.
 * __Takayuki Shinohara__, Yonghe Li, Mitsuteru Sakamoto and Toshiaki Satoh: DEVELOPMENT OF AUTOMATED CRACK DETECTION METHOD BASED ON CONVOLUTIONAL NEURAL NETWORKS， International Symposium on Remote Sensing, 2017.5.
@@ -17,7 +21,8 @@ doi: 10.1109/ISM46123.2019.00060
 * Fumitaka OGUSHI, Takayuki SHINOHARA, Masashi MATSUOKA: Surface Displacement due to the 2014 North Nagano, Japan Earthquake Estimated from Differential Interferometry Technique with ALOS-2 PALSAR-2 Data, Proc. International Geoscience and Remote Sensing Symposium 2015, IEEE, USB Memory, pp.3532-3535, 2015.7.
 * __Takayuki SHINOHARA__, Wen LIU, Masashi MATSUOKA: Spectral Mixture Analysis for Typhoon-Induced Inundation Mapping in Negros and Cebu Islands, the Philippines, Proceedings of International Symposium on Remote Sensing 2014, B08-3, 4p., CD-ROM, 2014.4.
 
-
+# 寄稿
+* __篠原 崇之__,李 勇鶴,坂元 光輝,佐藤 俊明,先名 重樹: 第29回 応用測量論文奨励賞 受賞論文の紹介 半教師付き学習による噴砂被害域の自動抽出手法に関する検討，測量　地理空間情報の科学と技術，日本測量協会，2019年1月，69巻，1号	 pp. 12-15	[https://ci.nii.ac.jp/naid/40021768561/](https://ci.nii.ac.jp/naid/40021768561/)	
 
 # 国内雑誌
 * 李 勇鶴,坂元 光輝,篠原 崇之,佐藤 俊明．深層学習によるMMS画像からの車両とその影領域の検出および高解像度路面オルソ画像作成への適用に関する研究，写真測量とリモートセンシング，日本写真測量学会，2019年	58巻 3号 pp. 130-141	[https://ci.nii.ac.jp/naid/40021964830/](https://ci.nii.ac.jp/naid/40021964830/)
