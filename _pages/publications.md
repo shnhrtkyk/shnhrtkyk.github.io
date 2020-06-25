@@ -4,16 +4,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# International Journals
+* __Shinohara T__, Xiu H, Matsuoka M. FWNet: Semantic Segmentation for Full-Waveform LiDAR Data Using Deep Learning. Sensors. 2020; 20(12):3568. [https://www.mdpi.com/1424-8220/20/12/3568](https://www.mdpi.com/1424-8220/20/12/3568)
+ 
 
 # International Conference 
+
 ## peer review
 * H. Xiu, T. Shinohara and M. Matsuoka, “Dynamic-Scale Graph Convolutional Network for Semantic Segmentation of 3D Point Cloud,” 2019 IEEE International Symposium on Multimedia (ISM), San Diego, CA, USA, 2019, pp. 271-2717.
-doi: 10.1109/ISM46123.2019.00062
+doi: 10.1109/ISM46123.2019.00062 [https://ieeexplore.ieee.org/document/8959020](https://ieeexplore.ieee.org/document/8959020)
 * __T. Shinohara__, H. Xiu and M. Matsuoka, “FWNetAE: Spatial Representation Learning for Full Waveform Data Using Deep Learning,” 2019 IEEE International Symposium on Multimedia (ISM), San Diego, CA, USA, 2019, pp. 259-2597.
-doi: 10.1109/ISM46123.2019.00060
+doi: 10.1109/ISM46123.2019.00060 [https://ieeexplore.ieee.org/document/8959007](https://ieeexplore.ieee.org/document/8959007)
 
 
-## without peer-review
+## without peer review
 * Li, Y., Sakamoto, M., Shinohara, T., and Satoh, T.: OBJECT DETECTION FROM MMS IMAGERY USING DEEP LEARNING FOR GENERATION OF ROAD ORTHOPHOTOS, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2, 573-577, https://doi.org/10.5194/isprs-archives-XLII-2-573-2018, 2018.
 * Yonghe Li, Takayuki Shinohara, Mitsuteru Sakamoto and Toshiaki Satoh: R-CNN based Object Detection from MMS Imagery for Generation of Road Orthophotos, International Symposium on Remote Sensing, 2017.5.
 * __Takayuki Shinohara__, Yonghe Li, Mitsuteru Sakamoto and Toshiaki Satoh: DEVELOPMENT OF AUTOMATED CRACK DETECTION METHOD BASED ON CONVOLUTIONAL NEURAL NETWORKS， International Symposium on Remote Sensing, 2017.5.
