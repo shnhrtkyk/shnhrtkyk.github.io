@@ -7,6 +7,7 @@ author_profile: true
 # International Journals
 * __Shinohara T__, Xiu H, Matsuoka M. FWNet: Semantic Segmentation for Full-Waveform LiDAR Data Using Deep Learning. Sensors. 2020; 20(12):3568. [https://www.mdpi.com/1424-8220/20/12/3568](https://www.mdpi.com/1424-8220/20/12/3568)
  
+ 
 
 # International Conference 
 ## peer review
