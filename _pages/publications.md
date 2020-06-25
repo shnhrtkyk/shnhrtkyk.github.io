@@ -9,7 +9,6 @@ author_profile: true
  
 
 # International Conference 
-
 ## peer review
 * H. Xiu, T. Shinohara and M. Matsuoka, “Dynamic-Scale Graph Convolutional Network for Semantic Segmentation of 3D Point Cloud,” 2019 IEEE International Symposium on Multimedia (ISM), San Diego, CA, USA, 2019, pp. 271-2717.
 doi: 10.1109/ISM46123.2019.00062 [https://ieeexplore.ieee.org/document/8959020](https://ieeexplore.ieee.org/document/8959020)
