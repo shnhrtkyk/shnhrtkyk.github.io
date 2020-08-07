@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
  
-## International Journals
+## International Peer Review Journals
 * __Shinohara T__, Xiu H, Matsuoka M. FWNet: Semantic Segmentation for Full-Waveform LiDAR Data Using Deep Learning. Sensors. 2020; 20(12):3568. [https://www.mdpi.com/1424-8220/20/12/3568](https://www.mdpi.com/1424-8220/20/12/3568)
  
  
@@ -39,11 +39,11 @@ doi: 10.1109/ISM46123.2019.00060 [https://ieeexplore.ieee.org/document/8959007](
 
 
 ## 国内学会
-
+* 李勇鶴, 坂元光輝, 篠原崇之, 佐藤俊明:  深層学習を用いたポリゴン内部へのラベル自動配置, MIRU2020, USB Memory, 2020.8.
 * 坂元光輝・篠原崇之・李　勇鶴，佐藤俊明．Conditional GAN を活用した石垣画像からの石材抽出手法の改良，日本写真測量学会令和 元年度年次学術講演会発表論文集, 2019.11
 * 奥田 知之,瀧 洋二,篠原 崇之．深層学習を用いた路面性状測定車によるラインセンサ路面画像のひび割れ自動抽出	土木情報学シンポジウム講演集，土木学会，2019年, 44巻，pp. 193-196	[https://ci.nii.ac.jp/naid/40022070076/](https://ci.nii.ac.jp/naid/40022070076/)	
 * 武田大典，篠原崇之，下村博之，藤平大，櫻本智美，杉本宏之: 地すべり地形自動抽出のための深層学習（Dilated U-net）を活用した応用研究，CDROM，2019.08．
-* __篠原崇之__, 李勇鶴, 坂元光輝, 佐藤俊明: Mobile Mapping System画像に対するドメイン適応を利用したSemantic Segmentation手法の検討, USB Memory,2019.8.
+* __篠原崇之__, 李勇鶴, 坂元光輝, 佐藤俊明: Mobile Mapping System画像に対するドメイン適応を利用したSemantic Segmentation手法の検討, MIRU2019, USB Memory,2019.8.
 * __篠原崇之__，武田大典，下村博之，藤平大，櫻本智美，深層学習(Dilated U-net)による航空レーザデータを用いた地すべり地形自動抽出手法の検討，日本地すべり学会第57回研究発表会，CDROM，2018.08．
 * __篠原崇之__，李勇鶴，坂元光輝，佐藤俊明，Dilated Encoder-Decoder モデルによる道路標識板の領域抽出，日本写真測量学会平成 30 年度年次学術講演会発表論文集, 2018.5
 * __篠原崇之__，佐藤俊明，武田大典，下村博之，先名重樹, 平成 28 年熊本地震における液状化被害抽出手法の検討，日本地震工学会・大会—2017 梗概集，2017.11 (__優秀発表賞__) 
