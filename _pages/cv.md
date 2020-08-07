@@ -31,8 +31,14 @@ Work experience
           * Landslide estimation
     * 2018-2019
         * RPA system development for OCR using win32 APIs.
-    * 2019-
+    * 2019-2020
         * 3D point cloud labeling using deep learnig
+        * Vehicle segmentation from aerial image
+    * 2020-
+        * 3D point cloud labeling using deep learnig
+        * Image colonization using deep learning
+        * Super resolution using deep learning
+        
       
 
 
