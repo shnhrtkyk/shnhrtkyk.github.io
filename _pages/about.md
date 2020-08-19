@@ -11,10 +11,10 @@ redirect_from:
 
 👋 
 ======
-Takayuki Shinohara  
-Doctoral student  
-Tokyo Institute of Technology(Tokyo Tech)  
-Yokohama, Kanagawa, Japan  
+📛 Takayuki Shinohara  
+📖 Doctoral student  
+🏫 Tokyo Institute of Technology (Tokyo Tech)  
+📍 Yokohama, Kanagawa, Japan  
 
 
 About me
