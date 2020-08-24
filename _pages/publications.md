@@ -6,7 +6,8 @@ author_profile: true
 ---
  
 ## International Peer Review Journals
-* __Shinohara T__, Xiu H, Matsuoka M. FWNet: Semantic Segmentation for Full-Waveform LiDAR Data Using Deep Learning. Sensors. 2020; 20(12):3568. [https://www.mdpi.com/1424-8220/20/12/3568](https://www.mdpi.com/1424-8220/20/12/3568)
+* __Shinohara T__, Xiu H, Matsuoka M. FWNet: Semantic Segmentation for Full-Waveform LiDAR Data Using Deep Learning. Sensors. 2020; 20(12):3568. [https://www.mdpi.com/1424-8220/20/12/3568](https://www.mdpi.com/1424-8220/20/12/3568)   
+[More information is here](https://shnhrtkyk.github.io/publication/2020-06-24-paper-title-number-2)
  
  
 
@@ -16,6 +17,7 @@ author_profile: true
 doi: 10.1109/ISM46123.2019.00062 [https://ieeexplore.ieee.org/document/8959020](https://ieeexplore.ieee.org/document/8959020)
 * __T. Shinohara__, H. Xiu and M. Matsuoka, “FWNetAE: Spatial Representation Learning for Full Waveform Data Using Deep Learning,” 2019 IEEE International Symposium on Multimedia (ISM), San Diego, CA, USA, 2019, pp. 259-2597.
 doi: 10.1109/ISM46123.2019.00060 [https://ieeexplore.ieee.org/document/8959007](https://ieeexplore.ieee.org/document/8959007)
+[More information is here](https://shnhrtkyk.github.io/publication/2019-12-09-paper-title-number-1)
 
 
 ### without peer review
