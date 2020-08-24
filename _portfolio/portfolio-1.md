@@ -1,5 +1,6 @@
 ---
 title: "Representation Learing method for Full waveform LiDAR data"
+date: 2019-12-14
 excerpt: "FWNetAE<br/><img src='/images/fwnetae.png'>"
 collection: portfolio
 ---
