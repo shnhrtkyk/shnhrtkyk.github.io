@@ -9,9 +9,9 @@ paperurl: 'https://www.mdpi.com/1424-8220/20/12/3568'
 citation: ' Shinohara T, Xiu H, Matsuoka M. FWNet: Semantic Segmentation for Full-Waveform LiDAR Data Using Deep Learning. Sensors. 2020; 20(12):3568.</i>.'
 ---
 This paper is about a novel semantic segmentation method for raw full waveform lidar data, using spatial deep learning method.
-<!-- コメントアウトしたい内容 -->
-<!-- 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+
+[Download paper here](https://www.mdpi.com/1424-8220/20/12/3568#cite)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
--->
+Shinohara, T.; Xiu, H.; Matsuoka, M. FWNet: Semantic Segmentation for Full-Waveform LiDAR Data Using Deep Learning. <i>Sensors</i> <b>2020</b>, 20, 3568.
