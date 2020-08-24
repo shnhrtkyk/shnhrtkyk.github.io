@@ -1,5 +1,6 @@
 ---
 title: "Semantic Segmentaion method for full-waveform lidar data"
+date: 2020-06-14
 excerpt: "FWNet<br/><img src='/images/fwnet.png'>"
 collection: portfolio
 ---
