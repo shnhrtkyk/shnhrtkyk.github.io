@@ -4,8 +4,4 @@ excerpt: "WaveLoG<br/><img src='/images/wavelog.png'>"
 collection: portfolio
 ---
 
-* This paper presents a novel semantic segmentation model for full-waveform lidar data observed from an ALS. 
-
-* The results demonstrate a generalization error for invisible test data.
-* Moreover, the FWNetAE encoded a meaningful latent vector and the decoders reconstructed the spatial geometry and its waveform value from the encoded latent vector. 
-
+* We introduce a novel waveform-aware convolutional methodthat directly applies convolutions on irregular full-waveformLiDAR data to extract waveform features.+  We develop an encoder-decoder-based network with a globalmodule including downsampling and upsampling blockswith a skip connection and waveform-aware convolutionaloperations and a local module with only waveform-awareconvolutional operations.+ We eliminate the requirement of expensive calculations ofhandcrafted features and achieve superior performance on abenchmark dataset without any conversion of full-waveformLiDAR data to 2D images or voxels
