@@ -9,9 +9,9 @@ paperurl: 'https://ieeexplore.ieee.org/document/8959007'
 citation: ' T.Shinohara,et.al. (2019). &quot;FWNetAE: Spatial Representation Learning for Full Waveform Data Using Deep Learning.&quot; <i>2019 IEEE International Symposium on Multimedia (ISM)</i>.'
 ---
 This paper is about a novel representation learning method for raw full waveform lidar data, using spatial deep learning method.
-<!-- コメントアウトしたい内容 -->
-<!-- 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
--->
+
+
+[Download paper here](https://ieeexplore.ieee.org/document/8959007)
+
+Recommended citation: T. Shinohara, H. Xiu and M. Matsuoka, "FWNetAE: Spatial Representation Learning for Full Waveform Data Using Deep Learning," <i>2019 IEEE International Symposium on Multimedia (ISM) </i>., San Diego, CA, USA, 2019, pp. 259-2597, doi: 10.1109/ISM46123.2019.00060.
