@@ -12,6 +12,7 @@ redirect_from:
 
 ## Programming
 * AtCoder
+* leetcode
 
 ## Anime and Manga
 * Aikatsu!
