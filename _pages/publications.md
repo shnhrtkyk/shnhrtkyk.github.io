@@ -13,7 +13,7 @@ author_profile: true
 
 ## International Conference 
 ### peer review
-*  __Shinohara T__, Xiu H, Matsuoka M. Semantic Segmentation for Full Waveform LiDAR data using Local and Hierarchical Global Feature Extraction, 28th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL), 2020. (__acceptance rate: 22.1%__)
+*  __Shinohara T__, Xiu H, Matsuoka M. Semantic Segmentation for Full Waveform LiDAR data using Local and Hierarchical Global Feature Extraction, 28th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2020), Seattle, Washington, USA, November 3-6, 2020. (__acceptance rate: 22.1%__)
 * H. Xiu, T. Shinohara and M. Matsuoka, “Dynamic-Scale Graph Convolutional Network for Semantic Segmentation of 3D Point Cloud,” 2019 IEEE International Symposium on Multimedia (ISM), San Diego, CA, USA, 2019, pp. 271-2717.
 doi: 10.1109/ISM46123.2019.00062 [https://ieeexplore.ieee.org/document/8959020](https://ieeexplore.ieee.org/document/8959020)
 * __T. Shinohara__, H. Xiu and M. Matsuoka, “FWNetAE: Spatial Representation Learning for Full Waveform Data Using Deep Learning,” 2019 IEEE International Symposium on Multimedia (ISM), San Diego, CA, USA, 2019, pp. 259-2597.
