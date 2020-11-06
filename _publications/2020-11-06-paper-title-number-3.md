@@ -6,7 +6,7 @@ excerpt: 'This paper is about a novel semantic segmentation method for raw full 
 date: 2020-11-06
 venue: 'ACM SIGSPATIAL 2020'
 paperurl: 'TBA'
-citation: 'Takayuki Shinohara, Haoyi Xiu, and Masashi Matsuoka. 2020. SemanticSegmentation for Full-Waveform LiDAR Data Using Local and HierarchicalGlobal Feature Extraction. In 28th International Conference on Advances in Geographic Information Systems (SIGSPATIAL ’20), November 3–6, 2020,Seattle, WA, USA. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3397536.3422209'
+citation: 'Takayuki Shinohara, Haoyi Xiu, and Masashi Matsuoka. 2020. Semantic Segmentation for Full-Waveform LiDAR Data Using Local and Hierarchical Global Feature Extraction. In 28th International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2020), November 3–6, 2020, Seattle, WA, USA. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3397536.3422209'
 ---
 This paper is about a novel semantic segmentation method for raw full waveform lidar data, using spatial deep learning method.
 
