@@ -6,6 +6,7 @@ author_profile: true
 ---
  
 ## International Peer Review Journals
+* Xiu, H.; Shinohara, T.; Matsuoka, M.; Inoguchi, M.; Kawabe, K.; Horie, K. Collapsed Building Detection Using 3D Point Clouds and Deep Learning. Remote Sens. 2020, 12, 4057. [https://www.mdpi.com/2072-4292/12/24/4057](https://www.mdpi.com/2072-4292/12/24/4057)  
 * __Shinohara T__, Xiu H, Matsuoka M. FWNet: Semantic Segmentation for Full-Waveform LiDAR Data Using Deep Learning. Sensors. 2020; 20(12):3568. [https://www.mdpi.com/1424-8220/20/12/3568](https://www.mdpi.com/1424-8220/20/12/3568)   
 [More information is here](https://shnhrtkyk.github.io/publication/2020-06-24-paper-title-number-2)
  
