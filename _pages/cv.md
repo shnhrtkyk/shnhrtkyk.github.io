@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Science, Tsukuba University, 2013
-* M.S. in Engineering, Tokyo Institute of Technology, 2015
-* Ph.D. in Engineering, Tokyo Institute of Technology, 2022(expected)
+* Bachelor of Science, Tsukuba University, 2013
+* Master of Engineering, Tokyo Institute of Technology, 2015
+* Doctor of Engineering, Tokyo Institute of Technology, 2022(expected)
 
 Work experience
 ======
