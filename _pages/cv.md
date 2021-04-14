@@ -39,10 +39,6 @@ Work experience
         * Image colonization using deep learning
         * Super resolution using deep learning
         
-      
-
-
-  
 Skills
 ======
 * Programming 
@@ -61,6 +57,12 @@ Skills
   * GAN 
     * Domain Adaptation 
     * Semi-supervised learning      
+    
+Awards and honors
+======
+* 平成29年度 日本地震工学会大会優秀発表賞
+* 2018年 応用測量論文奨励賞
+
 
 Publications
 ======
