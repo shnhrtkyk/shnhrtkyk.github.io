@@ -19,22 +19,22 @@ Work experience
 ======
 * 2015- : Researcher
   * Pasco Corporation
-    * 2015-2016
+    * 2015
         * Traffic sign detection by rule-based algorithm. 
         * Develop SfM software.
-    * 2016-2018
+    * 2016-2017
       * Image classification and image segmentation using deep learning.
           * Pavement Crack Estimation
           * Road Sign Segmentation
           * Semi-supervised learning for disaster damage detection using GANs
           * Domain Adaptation for sem.seg.
           * Landslide estimation
-    * 2018-2019
+    * 2018
         * RPA system development for OCR using win32 APIs.
-    * 2019-2020
+    * 2019
         * 3D point cloud labeling using deep learnig
         * Vehicle segmentation from aerial image
-    * 2020-
+    * 2020
         * 3D point cloud labeling using deep learnig
         * Image colonization using deep learning
         * Super resolution using deep learning
