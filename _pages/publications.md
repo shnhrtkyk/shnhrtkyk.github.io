@@ -26,6 +26,7 @@ doi: 10.1109/ISM46123.2019.00060 [https://ieeexplore.ieee.org/document/8959007](
 
 
 ### without peer review
+*  __Shinohara T__, Xiu H, Matsuoka M. Image to Point Cloud Translation using Conditional Generative Adversarial Network for Airborne LiDAR data, International Society for Photogrammetry and Remote Sensing 2020.
 *  __Shinohara T__, Xiu H, Matsuoka M. 3D POINT CLOUD GENERATION USING ADVERSARIAL TRAINING FOR LARGE-SCALE OUTDOOR SCENE, International Geoscience and Remote Sensing Symposium 2021.
 * Li, Y., Sakamoto, M., Shinohara, T., and Satoh, T.: OBJECT DETECTION FROM MMS IMAGERY USING DEEP LEARNING FOR GENERATION OF ROAD ORTHOPHOTOS, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2, 573-577, https://doi.org/10.5194/isprs-archives-XLII-2-573-2018, 2018.
 * Yonghe Li, Takayuki Shinohara, Mitsuteru Sakamoto and Toshiaki Satoh: R-CNN based Object Detection from MMS Imagery for Generation of Road Orthophotos, International Symposium on Remote Sensing, 2017.5.
