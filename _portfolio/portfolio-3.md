@@ -1,5 +1,6 @@
 ---
 title: "Semantic Segmentation for Full-Waveform LiDAR Data Using Local and Hierarchical Global Feature Extraction"
+date: 2020-11-06
 excerpt: "WaveLoG<br/><img src='/images/wavelog.png'>"
 collection: portfolio
 ---

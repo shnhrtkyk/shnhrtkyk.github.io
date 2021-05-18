@@ -1,5 +1,6 @@
 ---
 title: "LoPro 地産地消マップ"
+date: 2020-11-06
 excerpt: "LoPro<br/><img src='/images/lopro.png'>"
 collection: portfolio
 ---
