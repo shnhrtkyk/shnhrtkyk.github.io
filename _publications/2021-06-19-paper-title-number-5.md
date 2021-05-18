@@ -1,5 +1,6 @@
 ---
-title: "Semantic Segmentation for Full-Waveform LiDAR Data Using Local and Hierarchical Global Feature Extraction"
+title: "Point2color: 3D Point Cloud Colorization Using a Conditional Generative Network and Differentiable Rendering for Airborne LiDAR
+"
 collection: publications
 permalink: /publication/2021-06-19-paper-title-number-5
 excerpt: 'This paper is about a novel Point Cloud colorization method for airborne lidar data, using deep learning method with conditional GAN and differentiable rendering.'
