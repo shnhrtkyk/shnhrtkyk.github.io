@@ -1,6 +1,7 @@
 ---
-title: "Point2color: 3D Point Cloud Colorization Using a Conditional Generative Network and Differentiable Rendering for Airborne LiDAR
+title: "Point2color: 3D Point Cloud Colorization Using a Conditional Generative Network and Differentiable Rendering for Airborne LiDAR
 "
+date: 2021-06-19
 excerpt: "Point2color <br/><img src='/images/Point2color.png'>"
 collection: portfolio
 ---
