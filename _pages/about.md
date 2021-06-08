@@ -22,3 +22,4 @@ About me
 I am currently a doctoral student at Tokyo Institute of Technology(Tokyo Tech). I received my master degree from Tokyo Tech, advised by Professor Masashi Matsuoka. Prior to joining Tokyo Tech, I got my B.S. degree in earth science from Tsukuba University.
 
 My research focuses on deep learning, computer vision for 3D data. One of my major projects is to develop novel deep learning architectures for full-waveform LiDAR data and to apply them to semantic segmentation and representation learning. 
+I am also interested in conditional GANs to restore a missing information in order to make effective use of archived point cloud data.
