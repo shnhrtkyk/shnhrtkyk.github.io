@@ -18,3 +18,9 @@ The network is then trained by minimizing the distance between real color and co
 The experimental results demonstrate the effectiveness of point2color using the IEEE GRSS 2018 Data Fusion Contest dataset with lower error than previous studies.  
 Furthermore, an ablation study demonstrates the effectiveness of using a cGAN pipeline and 2D images via a differentiable renderer.  
 Our code will be available at [https://github.com/shnhrtkyk/point2color](https://github.com/shnhrtkyk/point2color.)
+
+
+Paper is here: [https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Shinohara_Point2color_3D_Point_Cloud_Colorization_Using_a_Conditional_Generative_Network_CVPRW_2021_paper.html](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Shinohara_Point2color_3D_Point_Cloud_Colorization_Using_a_Conditional_Generative_Network_CVPRW_2021_paper.html)
+
+
+![概要](/images/Point2color.png) 
