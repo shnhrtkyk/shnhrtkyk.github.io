@@ -2,7 +2,7 @@
 title: "Point2color: 3D Point Cloud Colorization Using a Conditional Generative Network and Differentiable Rendering for Airborne LiDAR
 "
 collection: publications
-permalink: /publication/2021-06-19-paper-title-number-5
+permalink: /publication/2021-06-19-paper-title-number-4
 excerpt: 'This paper is about a novel Point Cloud colorization method for airborne lidar data, using deep learning method with conditional GAN and differentiable rendering.'
 date: 2021-06-01
 venue: 'CVPR 2021 Workshop EarthVision2021'
