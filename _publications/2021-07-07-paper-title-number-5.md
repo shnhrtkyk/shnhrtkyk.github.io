@@ -1,7 +1,7 @@
 ---
 title: "IMAGE TO POINT CLOUD TRANSLATION USING CONDITIONAL GENERATIVE ADVERSARIAL NETWORK FOR AIRBORNE LIDAR DATA"
 collection: publications
-permalink: /publication/2021-07-07-paper-title-number-4
+permalink: /publication/2021-07-07-paper-title-number-5
 excerpt: 'This paper is about a novel generative model for Poiint Cloud generatation for airborne LiDAR data, using  deep learning method with VAE and GAN.'
 date: 2021-06-24
 venue: 'ISPRS 2020'
