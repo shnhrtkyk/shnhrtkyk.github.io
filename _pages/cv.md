@@ -35,7 +35,7 @@ Work experience
         * 3D point cloud labeling using deep learnig
         * Vehicle segmentation from aerial image
     * 2020
-        * 3D point cloud labeling using deep learnig
+        * 3D point cloud labeling using deep learning
         * Image colonization using deep learning
         * Super resolution using deep learning
         
