@@ -17,5 +17,7 @@ This paper is about a novel Point Cloud colorization method for airborne lidar d
 
 <script async class="speakerdeck-embed" data-id="1d332913b6a1455993fe4ed3ba435347" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+
+
 Recommended citation: Shinohara, Takayuki, Haoyi Xiu, and Masashi Matsuoka. "Point2color: 3D Point Cloud Colorization Using a Conditional Generative Network and Differentiable Rendering for Airborne LiDAR." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.
 
