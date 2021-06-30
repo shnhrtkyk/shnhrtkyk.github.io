@@ -10,3 +10,8 @@ citation: 'Shinohara, T., Xiu, H., and Matsuoka, M.: IMAGE TO POINT CLOUD TRANSL
 ---
 This study introduces a novel image to a 3D point-cloud translation method with a conditional generative adversarial network that creates a large-scale 3D point cloud. This can generate supervised point clouds observed via airborne LiDAR from aerial images. The network is composed of an encoder to produce latent features of input images, generator to translate latent features to fake point clouds, and discriminator to classify false or real point clouds. The encoder is a pre-trained ResNet; to overcome the difficulty of generating 3D point clouds in an outdoor scene, we use a FoldingNet with features from ResNet. After a fixed number of iterations, our generator can produce fake point clouds that correspond to the input image. Experimental results show that our network can learn and generate certain point clouds using the data from the 2018 IEEE GRSS Data Fusion Contest.
 
+
+<script async class="speakerdeck-embed" data-id="64233f55a59243518ce789c10838af9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RMNle9__mU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
